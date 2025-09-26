@@ -1,17 +1,24 @@
 
+[![xiuwk](https://img.shields.io/badge/xiuwk-github-blue?logo=github)](https://github.com/xiuwk)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+I am currently a Master's student in Artificial Intelligence at the Faculty of Science, The University of Hong Kong. 
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### 📧 Contact
 
-#### Contact
+- **Email**: xiuwk0820@connect.hku.hk
 
-Email: senli[at]fas.harvard.edu
+#### 🎓 Education
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+- **M.Sc. in Artificial Intelligence**, Faculty of Science, The University of Hong Kong, 2025–present  
+- **B.Eng. in Transportation Engineering**, School of Intelligent Engineering, Sun Yat-sen University, 2018–2022  
+  - Guangdong Provincial Key Laboratory of Intelligent Transportation  
+  - GPA: 3.6/4.0
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 🔬 Research Interests
 
+- Multimodal Learning
+- Large Language Models (LLMs)
+- Contrastive Learning
+- Computer Vision
+
+I am particularly interested in joining a research laboratory focused on multimodal LLMs, where I can engage in meaningful research and contribute to innovative projects. I am also open to research internships and collaboration opportunities in these areas. Please feel free to reach out to me if you have any opportunities or would like to discuss potential collaborations!

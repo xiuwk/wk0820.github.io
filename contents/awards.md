@@ -1,16 +1,10 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 第十八届全国大学生智能车竞赛 华南赛区一等奖 全国总决赛二等奖 2023
 
-- National Scholarship for Graduate Student, 2024.
+- 全国大学生计算机设计大赛 广东省一等奖 全国三等奖 2024
 
-- First-Prize Scholarship (CUMT), 2024.
+- 教育部港澳台优秀学生奖学金-特等奖（国家级）2023 2024
 
-- First-Prize Scholarship (CUMT), 2023.
+- 中山大学优秀学生奖学金-二等奖 2023 2024
 
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+- 中山大学专项奖学金 2023
