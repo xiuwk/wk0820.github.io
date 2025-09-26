@@ -2,7 +2,7 @@
 
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'publications', 'awards']
+const section_names = ['home', 'publications', 'awards', 'internships']
 
 
 window.addEventListener('DOMContentLoaded', event => {
@@ -61,17 +61,5 @@ window.addEventListener('DOMContentLoaded', event => {
             })
             .catch(error => console.log(error));
     })
-
-        // Internships markdown
-        fetch(content_dir + 'internships.md')
-            .then(response => response.text())
-            .then(markdown => {
-                const html = marked.parse(markdown);
-                document.getElementById('internships-md').innerHTML = html;
-            })
-            .then(() => {
-                MathJax.typeset();
-            })
-            .catch(error => console.log(error));
 
 }); 
