@@ -1,8 +1,8 @@
 # Internships
 
-- **2024.07-2024.09**  广州云从科技有限公司， 产品解决方案实习生
-    负责后端服务架构设计与开发，实现了高并发场景下用户请求的自动调度与实时响应。独立完成基于Stable Diffusion与ControlNet的AIGC项目的工程复现、算法封装及RESTful API设计，为前端产品化提供了稳定、高效的人工智能服务接口。深入参与系统全流程开发，涵盖需求分析、技术方案设计、核心代码实现、模块测试与云服务器部署，显著提升了分布式API设计、微服务部署及智能响应系统的开发与优化能力。
+- **Jul 2024 - Sep 2024**​​ Guangzhou Cloudwalk Technology Co., Ltd., Product Solutions Intern
+    Responsible for the design and development of backend service architecture, implementing automatic scheduling and real-time response for user requests in high-concurrency scenarios. Independently completed the engineering reproduction, algorithm encapsulation, and RESTful API design for an AIGC project based on Stable Diffusion and ControlNet, providing stable and efficient artificial intelligence service interfaces for front-end productization. Thoroughly participated in the full system development lifecycle, encompassing requirements analysis, technical solution design, core code implementation, module testing, and cloud server deployment, significantly enhancing capabilities in distributed API design, microservices deployment, and the development and optimization of intelligent response systems.
 
-- **2023.07-2023.08**  广汽研究院，移动终端实习生
-    在具身智能机器人相关项目中，参与视觉感知算法的研发与系统集成工作。主要包括：协助开发开放词汇目标检测模型，结合视觉-语言模型实现基于自然语言指令的零样本识别与分割；参与基于RGB-D相机的三维环境感知方案实现，涉及深度补全、坐标系转换与六自由度位姿估计等环节；同时支持算法在嵌入式平台的部署优化，并参与基于ROS的跨进程通信系统开发与调试，助力视觉模块与机器人系统的高效集成。
+- **Jul 2023 - Aug 2023**​​ GAC R&D Center, Mobile Terminal Intern
+    Participated in the research and development of visual perception algorithms and system integration for an embodied intelligent robotics project. Main responsibilities included: assisting in the development of an open-vocabulary object detection model, combining vision-language models to achieve zero-shot recognition and segmentation based on natural language instructions; participated in the implementation of a 3D environment perception solution based on RGB-D cameras, involving depth completion, coordinate system transformation, and six-degree-of-freedom pose estimation; also supported algorithm deployment and optimization on embedded platforms, and participated in the development and debugging of a ROS-based inter-process communication system, contributing to the efficient integration of the vision module with the robot system.
 
