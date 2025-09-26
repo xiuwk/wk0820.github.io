@@ -10,7 +10,7 @@ I am currently a Master's student in Artificial Intelligence at the Faculty of S
 #### 🎓 Education
 
 - **M.Sc. in Artificial Intelligence**, Faculty of Science, The University of Hong Kong, 2025–present  
-- **B.Eng. in Transportation Engineering**, School of Intelligent Engineering, Sun Yat-sen University, 2018–2022  
+- **B.Eng. in Transportation Engineering**, School of Intelligent Engineering, Sun Yat-sen University, 2021–2025
   - Guangdong Provincial Key Laboratory of Intelligent Transportation  
   - GPA: 3.6/4.0
 
