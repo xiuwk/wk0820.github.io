@@ -62,4 +62,16 @@ window.addEventListener('DOMContentLoaded', event => {
             .catch(error => console.log(error));
     })
 
+        // Internships markdown
+        fetch(content_dir + 'internships.md')
+            .then(response => response.text())
+            .then(markdown => {
+                const html = marked.parse(markdown);
+                document.getElementById('internships-md').innerHTML = html;
+            })
+            .then(() => {
+                MathJax.typeset();
+            })
+            .catch(error => console.log(error));
+
 }); 
