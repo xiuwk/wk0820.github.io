@@ -21,4 +21,4 @@ I am currently a Master's student in Artificial Intelligence at the Faculty of S
 - Contrastive Learning
 - Computer Vision
 
-I am particularly interested in joining a research laboratory focused on multimodal LLMs, where I can engage in meaningful research and contribute to innovative projects. I am also open to research internships and collaboration opportunities in these areas. Please feel free to reach out to me if you have any opportunities or would like to discuss potential collaborations!
+I am particularly interested in joining a research laboratory focused on multimodal LLMs, where I can engage in meaningful research and contribute to innovative projects. I am also open to research internships and collaboration opportunities in these areas. Please feel free to reach out to me if you have any opportunities or would like to discuss potential collaborations！
